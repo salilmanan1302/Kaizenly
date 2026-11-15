@@ -1,0 +1,17 @@
+
+fastapi
+uvicorn[standard]
+groq
+python-dotenv
+pydantic>=2.0
+
+python-multipart
+
+Pillow
+
+# Fine-tuned model dependencies
+torch
+transformers
+peft
+accelerate
+safetensors

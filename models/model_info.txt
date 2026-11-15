@@ -1,0 +1,7 @@
+Project: Kaizenly
+Model: Qwen2.5-1.5B-Instruct
+Fine-tuning method: LoRA
+Adapter type: PEFT
+Adapter location: models/kaizenly-finetuned-adapter
+Training platform: Google Colab
+Training hardware: NVIDIA T4 GPU
